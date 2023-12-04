@@ -19,7 +19,7 @@
 }
 .home-text {
   top: 1049px;
-  left: 332px;
+  left: 330px;
   color: rgba(242, 242, 242, 1);
   height: auto;
   margin: auto;
@@ -391,20 +391,10 @@
   height: 29px;
   position: absolute;
 }
-.home-group13 {
-  top: 1131px;
-  left: 120px;
-  width: 227px;
-  height: 26.66666603088379px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
 .home-group15 {
-  top: 0px;
-  right: -215px;
+  left: 330px;
   width: 227px;
+  bottom: 177.34375px;
   height: 26.66666603088379px;
   display: flex;
   position: absolute;
@@ -435,7 +425,7 @@
 }
 .home-group14 {
   top: 1120px;
-  left: 633px;
+  left: 601px;
   width: 180px;
   height: 48px;
   display: flex;
@@ -454,65 +444,6 @@
   font-style: Bold;
   text-align: left;
   font-family: Roboto;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.home-frame1 {
-  gap: 48px;
-  top: 2px;
-  right: 0px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-}
-.home-text21 {
-  color: rgba(242, 242, 242, 1);
-  height: auto;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.home-text23 {
-  color: rgba(242, 242, 242, 1);
-  height: auto;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.home-text25 {
-  color: rgba(242, 242, 242, 1);
-  height: auto;
-  font-size: 16px;
-  font-style: Regular;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.home-text27 {
-  top: 0px;
-  left: 0px;
-  color: rgba(242, 242, 242, 1);
-  height: auto;
-  position: absolute;
-  font-size: 20px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Inter;
   font-weight: 700;
   line-height: normal;
   font-stretch: normal;
@@ -568,7 +499,7 @@
   position: absolute;
   align-items: flex-start;
 }
-.home-text29 {
+.home-text21 {
   top: 0px;
   left: 0px;
   color: rgba(242, 242, 242, 1);
@@ -613,6 +544,76 @@
   flex-shrink: 1;
   background-color: rgba(217, 217, 217, 1);
 }
+.home-container4 {
+  top: 40px;
+  left: 0px;
+  right: 0px;
+  width: 990.515625px;
+  height: 24px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.home-frame1 {
+  gap: 48px;
+  top: 2px;
+  right: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.home-text23 {
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text25 {
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text27 {
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text29 {
+  top: 0px;
+  left: 0px;
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
 @media(max-width: 1200px) {
   .home-text {
     left: 127px;
@@ -625,14 +626,6 @@
   }
   .home-group14 {
     left: 416px;
-  }
-  .home-frame1 {
-    top: 40px;
-    right: 104.75px;
-  }
-  .home-text27 {
-    top: 40px;
-    left: 104.734375px;
   }
   .home-rectangle15 {
     flex: 0;
@@ -653,7 +646,7 @@
     bottom: -3px;
     margin: auto;
   }
-  .home-text29 {
+  .home-text21 {
     top: 0px;
     left: 0px;
   }
@@ -662,5 +655,10 @@
     left: -125px;
     width: 1200px;
     height: 64px;
+  }
+  .home-text29 {
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
   }
 }
