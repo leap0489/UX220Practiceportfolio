@@ -86,8 +86,8 @@
   flex-shrink: 1;
 }
 .home-polygon2 {
-  top: 94px;
-  right: 37px;
+  top: 104px;
+  right: 38px;
   width: 116px;
   height: 164px;
   position: absolute;
@@ -100,7 +100,7 @@
   position: absolute;
 }
 .home-polygon1 {
-  top: -5px;
+  top: -10px;
   left: 123px;
   width: 197px;
   height: 352px;
