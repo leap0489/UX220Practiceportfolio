@@ -284,6 +284,11 @@
   text-decoration: none;
 }
 @media(max-width: 1200px) {
+  .projects-text06 {
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+  }
   .projects-container3 {
     left: 108px;
   }
